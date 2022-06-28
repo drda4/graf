@@ -1,0 +1,7 @@
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\bin\Debug\U_graph.exe
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\bin\Debug\U_graph.pdb
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\obj\Debug\U_graph.exe
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\obj\Debug\U_graph.pdb
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\obj\Debug\U_graph.MainForm.resources
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\obj\Debug\U_graph.csproj.GenerateResource.Cache
+C:\Users\Peetrs\Documents\SharpDevelop Projects\U_graph\U_graph\obj\Debug\U_graph.csprojResolveAssemblyReference.cache

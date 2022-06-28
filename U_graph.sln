@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U_graph", "U_graph\U_graph.csproj", "{ABAFBBE7-06FE-4E88-83DE-DBC68A481FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAFBBE7-06FE-4E88-83DE-DBC68A481FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAFBBE7-06FE-4E88-83DE-DBC68A481FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAFBBE7-06FE-4E88-83DE-DBC68A481FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAFBBE7-06FE-4E88-83DE-DBC68A481FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
